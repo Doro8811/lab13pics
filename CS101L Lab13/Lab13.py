@@ -1,3 +1,4 @@
+#CS101L Section 0018 Lab 13 - Wei Hong Weng
 import turtle
 
 class Point(object):
